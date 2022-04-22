@@ -1,5 +1,5 @@
-# Cours sur React et Redux Toolkit
+# Exercice to practice React_redux_RTK with TypeScript
 
-1. Clonez le dépot sur votre propre machine : `git clone https://github.com/liorchamla/cours-redux-toolkit.git` ou alors ouvrez le dans Gitpod :)
-2. Installez les dépendances : `npm install` (fait par défaut sur Gitpod)
-3. Lancez l'application : `npm start`
+1. Clone the repository
+2. Install the dependencies with `npm i` or `npm install`
+3. Launch the app : `npm start`
